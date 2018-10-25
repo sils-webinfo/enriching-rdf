@@ -9,6 +9,7 @@ Install Spacy and Jupyter into the venv:
 Install the Spacy [language models](https://spacy.io/usage/models#section-available):
 
 `./venv/bin/python -m spacy download en_core_web_sm`
+
 `./venv/bin/python -m spacy download de_core_news_sm`
 
 Run the Jupyter notebook:
